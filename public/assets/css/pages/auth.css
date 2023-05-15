@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: "Poppins", sans-serif;
+    background-color: #fff;
+}
+
+#auth {
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+#auth .auth-image {
+    position: relative;
+}
+
+#auth .auth-image .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #22377570;
+}
+
+#auth #auth-right {
+    height: 100%;
+}
+
+#auth #auth-left {
+    padding: 5rem 8rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#auth #auth-left .auth-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+#auth #auth-left .auth-subtitle {
+    color: #a8aebb;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+}
+
+#auth #auth-left .auth-logo {
+    margin-bottom: 7rem;
+}
+
+#auth #auth-left .auth-logo img {
+    height: 2rem;
+}
+
+@media screen and (max-width: 767px) {
+    #auth #auth-left {
+        padding: 5rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #auth #auth-left {
+        padding: 5rem 3rem;
+    }
+}
