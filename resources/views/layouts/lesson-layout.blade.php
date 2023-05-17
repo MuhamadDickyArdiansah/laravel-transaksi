@@ -11,7 +11,7 @@
   @stack('addon-styles')
 
 
-  <title>{{ $title }} - Production</title>
+  <title>{{ $title }} - Ventuno</title>
 </head>
 
 <body>
