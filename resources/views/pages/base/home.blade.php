@@ -6,7 +6,7 @@
           <h1 class="title mb-3">
             Welcome to
             <br>
-            <span class="text-danger">Ventuno Production</span>
+            <span class="text-danger">Ventuno Production </span>
           </h1>
           <p class="text mb-4">We don't remember days, we remember moments.</p>
 
