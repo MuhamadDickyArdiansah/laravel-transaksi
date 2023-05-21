@@ -52,7 +52,7 @@
         <ul class="fa-ul " style="margin-left: 1.65em;">
           <li class="mb-3">
             <span class="fa-li"><i class="fa-solid fa-house"></i></span>
-            <p class="text-white hover:underline"><a href="https://goo.gl/maps/zAYDy6fFF7WJPaQEA" class="text-white"><span class="ms-2">New York, NY 10012, US</span></a></p>
+            <p class="text-white hover:underline"><a href="https://goo.gl/maps/zAYDy6fFF7WJPaQEA" class="text-white"><span class="ms-2">Jl. Gumuruh No.90, Kec. Batununggal, <br>Kota Bandung, Jawa Barat 40275</span></a></p>
           </li>
           <li class="mb-3">
             <span class="fa-li "><i class="fas fa-envelope"></i></span>
