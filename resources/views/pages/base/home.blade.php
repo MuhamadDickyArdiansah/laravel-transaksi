@@ -122,7 +122,7 @@
       <div class="row mb-4 text-center">
         <div class="col-12">
           <h2 class="heading">Our Client</h2>
-          <p class="text">kami telah melayani klien dari berbagai latar belakang dan sektor untuk kebutuhan foto dan video mereka, dan memastikan mereka menerima konten visual berkualitas tinggi yang selaras dengan visi mereka.</p>
+          <p class="text">Kami telah melayani klien dari berbagai latar belakang dan sektor untuk kebutuhan foto dan video mereka, dan memastikan mereka menerima konten visual berkualitas tinggi yang selaras dengan visi mereka.</p>
         </div>
       </div>
       <div class="row">
