@@ -33,7 +33,7 @@
             <i class="bi bi-shield-lock"></i>
           </div>
         </div>
-        <button type="submit" class="btn btn-primary btn-block btn-lg shadow-lg">Register</button>
+        <button type="submit" class="btn btn-danger btn-block btn-lg shadow-lg">Register</button>
       </form>
       <div class="text-center mt-5">
         <p class="text-gray-600">Sudah punya akun? <a href="{{ route('login') }}" class="font-bold">Masuk</a></p>
