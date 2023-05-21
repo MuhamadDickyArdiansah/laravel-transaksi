@@ -9,7 +9,7 @@
   @notifyCss
   <x-admin-styles />
   @stack('addon-styles')
-
+ 
 
   <title>{{ $title }} - Ventuno</title>
 </head>
